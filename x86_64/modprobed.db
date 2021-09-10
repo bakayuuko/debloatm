@@ -7,6 +7,7 @@ ashmem_linux
 at24
 autofs4
 battery
+bcma
 binfmt_misc
 blake2b_generic
 bluetooth
@@ -76,6 +77,8 @@ libphy
 llc
 loop
 lpc_ich
+lz4
+lz4_compress
 mac_hid
 mbcache
 mc
@@ -163,6 +166,8 @@ videobuf2_vmalloc
 videodev
 vmw_vsock_virtio_transport_common
 vsock
+watchdog
+wl
 wmi
 wmi_bmof
 x86_pkg_temp_thermal
@@ -173,3 +178,4 @@ xhci_pci_renesas
 xor
 zram
 zsmalloc
+zstd_compress
